@@ -1,0 +1,176 @@
+body {
+background-attachment: fixed;
+color: #6B6758;
+background-image: url("../images/texturetastic_gray.png");
+font-family: 'Muli', sans-serif;
+font-size: 15px
+}
+
+p {
+	margin: 2px;
+}
+
+h1 {
+	color: #6DB2C8;
+	font-family: 'Playfair Display', serif;
+	font-style: italic; 
+	font-size: 90px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	}
+
+h2 {
+	color: #6DB2C8;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 15px;
+	font-weight: bold;
+	color: #424037;
+}
+
+h4 {
+	color: #424037;
+	font-size: 15px;
+	}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgba(0,0,0,.4);
+}
+
+#hello {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+	opacity: 0.8;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+#logo {
+	border-radius: 50%;
+	box-shadow: 2px 2px 20px #4F4C41;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo:hover {
+	opacity: 0.8;
+}
+
+#pdf {
+	margin-top: 35px;
+	margin-bottom: 30px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+#mail {
+	margin-top: 35px;
+	margin-bottom: 30px;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.icones {
+	width: 60px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 20px
+	}
+
+.rs {
+	display: block;
+	width: 35px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+#container {
+  margin: 0 auto;
+  padding-bottom: -20px;
+
+  }
+
+#header {
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 20px;
+  	padding: 30px;
+  	width: 900px;
+  	display: inline;
+  	}
+
+
+
+#nav {
+  list-style-type: none;
+  margin-top: 30px;
+  text-align: center;
+  }
+
+#nav > li {
+  display: inline;
+  padding: 2em;
+}
+
+#nav > li {
+  text-decoration: none;
+  font-family: 'Quicksand';
+  font-size: 16px;
+  color: #171512;
+  font-weight: 900;
+  }
+
+#prez {
+	text-align: center;
+	}
+
+.achievement {
+	width: 550px;
+	border: 2px solid white;
+	text-align: left;
+	background-color: #fff;
+	opacity: 0.8;
+	margin: 20px auto;
+	margin-top: 40px;
+	padding: 30px;
+	padding-top: 0px;
+  	padding-bottom: 15px;
+  	border-radius: 20px;
+ 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#hobbies {
+	text-align: center;
+}
+
+#social {
+	width: 575px;
+	border: 2px solid white;
+	text-align: center;
+  	background-color: #fff;
+  	opacity: 0.8;
+ 	margin-left: 20px;
+  	padding: 20px;
+  	border-radius: 20px;
+ 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#crédits {
+	padding-top: 5px;
+	font-size: 10px;
+	text-align: center;
+	}
+
